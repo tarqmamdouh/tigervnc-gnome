@@ -202,7 +202,7 @@ X DISPLAY #	RFB PORT #	PROCESS ID
 
 - SSH to your server terminal with **vnc port forwarding**  ```ssh -i <ssh key location> -L <RFB PORT>:127.0.0.1:<RFB PORT> <VNC User>@<IP>```
 
-- Download VNC Client of your choice I prefer ![RealVnc](https://www.realvnc.com/en/connect/download/viewer/)
+- Download VNC Client of your choice I prefer [RealVnc](https://www.realvnc.com/en/connect/download/viewer/)
 
 - Setup a new vnc connection in your vnc client with ```127.0.0.1:<RFB PORT>```.
 
