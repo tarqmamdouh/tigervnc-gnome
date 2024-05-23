@@ -210,4 +210,4 @@ X DISPLAY #	RFB PORT #	PROCESS ID
 
 ![image](https://user-images.githubusercontent.com/11979856/124404971-7031fd80-dd3d-11eb-838a-923d5b342c63.png)
 
-Viola! you got an ubuntu UI in your server!
+Viola! you got an ubuntu UI in your server!!
